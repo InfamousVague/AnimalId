@@ -1,0 +1,25 @@
+{
+  "name": "animalid",
+  "version": "1.0.0",
+  "description": "ForestgreenSteepGalapagospenguin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wski/AnimalId.git"
+  },
+  "keywords": [
+    "animal",
+    "id",
+    "adjective",
+    "generator"
+  ],
+  "author": "wski <contact.mattdylan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wski/AnimalId/issues"
+  },
+  "homepage": "https://github.com/wski/AnimalId#readme"
+}
