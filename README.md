@@ -8,7 +8,21 @@ Because of the use of crypto for randomization generating names can take some ti
 ```javascript
 const aid = require('animalid');
 
-aid.gen(3).then(id => {
+aid.make(3).then(id => {
   console.log(id); // ForestgreenSteepGalapagospenguin
 });
+```
+
+## Example Outputs
+```
+EssentialVeneratedGeese
+WateryExtraneousMinibeast
+HeavySwiftTowhee
+LowInfatuatedHerculesbeetle
+WhitesmokeBurlyJaguarundi
+AcidicExcitedTigershark
+WoozyParchedStilt
+BackDisloyalDachshund
+LeafyBitesizedHornshark
+FrankPerkyRoan
 ```
